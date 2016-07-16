@@ -1,0 +1,6 @@
+Connect from c9.io to git:
+
+    git remote add upstream git@github.com:freak4fun/moneybox.git
+    git pull moneybox main
+    
+    git push upstream main
