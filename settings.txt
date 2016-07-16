@@ -1,5 +1,8 @@
 Connect from c9.io to git:
 
+Git
+    https://github.com/freak4fun/moneybox
+
 Config
     git remote add upstream git@github.com:freak4fun/moneybox.git // mappen von Git Repository auf den alias upstream
     
