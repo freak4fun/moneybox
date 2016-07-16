@@ -4,3 +4,6 @@ Connect from c9.io to git:
     git pull moneybox main
     
     git push upstream main
+
+
+    git commit -c 'kommentar'
