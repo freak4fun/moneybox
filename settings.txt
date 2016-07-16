@@ -9,5 +9,5 @@ Checkout
 Commit
     git add <filename> // Datei zum Git Repository hinzufügen
     git add . // Alle geänderten und neuen Dateien zum commit hinzufügen
-    git commit -c 'kommentar' // Commiten um zu pushen
+    git commit -am 'kommentar' // alles kommiten
     git push upstream main // Änderungen ans Git Repository schicken
