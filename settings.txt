@@ -1,9 +1,13 @@
 Connect from c9.io to git:
 
-    git remote add upstream git@github.com:freak4fun/moneybox.git
-    git pull moneybox main
+Config
+    git remote add upstream git@github.com:freak4fun/moneybox.git // mappen von Git Repository auf den alias upstream
     
-    git push upstream main
-
-
-    git commit -c 'kommentar'
+Checkout
+    git pull moneybox main // Änderungen vom Git Repository holen
+    
+Commit
+    git add <filename> // Datei zum Git Repository hinzufügen
+    git add . // Alle geänderten und neuen Dateien zum commit hinzufügen
+    git commit -c 'kommentar' // Commiten um zu pushen
+    git push upstream main // Änderungen ans Git Repository schicken
